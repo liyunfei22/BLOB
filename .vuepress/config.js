@@ -1,5 +1,6 @@
 module.exports = {
   "title": "李云飞博客",
+  "base": "/BLOB/public/",
   "description": "用于纪录个人学习成长",
   "dest": "public",
   "head": [
