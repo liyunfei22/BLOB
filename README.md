@@ -1,6 +1,6 @@
 ---
 home: true
-heroText: 加油
+heroText: go
 tagline: hello
 # heroImage: /hero.png
 # heroImageStyle: {
@@ -11,9 +11,9 @@ tagline: hello
 #   background: '#fff',
 #   borderRadius: '1rem',
 # }
-bgImageStyle: {
-  height: '450px'
-}
+# bgImageStyle: {
+#   height: '450px'
+# }
 isShowTitleInHome: false
 actionText: Guide
 actionLink: /views/other/guide

@@ -21,6 +21,7 @@ module.exports = {
   ],
   "theme": "reco",
   "themeConfig": {
+    huawei: true,
     "nav": [
       {
         "text": "Home",
@@ -66,7 +67,7 @@ module.exports = {
     "blogConfig": {
       "category": {
         "location": 2,
-        "text": "Category"
+        "text": "分类"
       },
       "tag": {
         "location": 3,
